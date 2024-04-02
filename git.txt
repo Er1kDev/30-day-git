@@ -30,3 +30,30 @@ llamada master
 
 tirar de los cambios remotos al local
 git pull <NOMBREDELREMOTO> <NOMBREDELBRANCH>
+
+Agregar un remoto
+git remote add <NOMBREDELREMOTO> <URL>
+
+Cambiar la URL a un remoto
+git remote set-url <NOMBREDELREMOTO> <URL>
+
+Ver las conexiones remotas
+git remote -v
+
+Crear y moverse a la rama en una sola línea
+git checkout -b <NOMBERDELABRANCH>
+
+Crear una rama nueva
+git branch <NOMBERDELABRANCH>
+
+Moverse a una rama
+git checkout <NOMBERDELABRANCH>
+
+Listado de las ramas
+git branch
+
+Renombrar la rama en la que estás
+git branch -m <NOMBERDELABRANCH>
+
+Vericar la rama en la que estás y su estado
+git status
