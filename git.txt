@@ -27,3 +27,6 @@ git remote add origin <URLDEGITHUB>: llamar a tu repositorio remoto
 git push origin master
 agrega todo lo que hiciste en el repositorio local al remoto en un rama 
 llamada master
+
+tirar de los cambios remotos al local
+git pull <NOMBREDELREMOTO> <NOMBREDELBRANCH>
