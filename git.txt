@@ -1,0 +1,6 @@
+
+Commit son el centro de Git. el commit sirve para 
+guardar y describir el trabajo realizado. son los
+puntos en la linea de tiempo del historial de  tu
+proyecto.
+
