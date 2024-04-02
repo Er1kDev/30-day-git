@@ -15,3 +15,15 @@ en el commit
 
 "git diff" ver diferencias entre las versiones (commit) de los archivos
 
+anade tu nombre de usuario de github config de git
+git config --global user.username <USerNamE>
+
+verificar
+git config --global user.username
+
+git remote add origin <URLDEGITHUB>: llamar a tu repositorio remoto
+"origin" en vez de url de github
+
+git push origin master
+agrega todo lo que hiciste en el repositorio local al remoto en un rama 
+llamada master
