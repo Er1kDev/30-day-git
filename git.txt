@@ -4,13 +4,14 @@ guardar y describir el trabajo realizado. son los
 puntos en la linea de tiempo del historial de  tu
 proyecto.
 
-"git status": se ve el estado del repositorio local
+"git status": se ve el estado de los cambios en un repositorio local
 
 "git add nombretexto": guarda el texto para hacer los cambios
 en el commit
 
+"git add .": anade todos los archivos con cambios
+
 "git commit -m 'texto creado'": guardar los cambios del commit
 
-"git diff" se ve la diferencia entre el archivo que modificaste ahora
-con el archivo en el momento que hiciste el ultimo commit
+"git diff" ver diferencias entre las versiones (commit) de los archivos
 
