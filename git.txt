@@ -57,3 +57,20 @@ git branch -m <NOMBERDELABRANCH>
 
 Vericar la rama en la que estás y su estado
 git status
+
+git pull <NOMBREDELREMOTO> <NOMBREDELABRANCHREMOTA>
+
+Fusiona una rama a tu rama actual
+git merge <NOMBREDELABRANCH>
+
+Cámbiate la branch en la que estás trabajando
+git checkout <NOMBREDELABRANCH>
+
+Borra una rama local
+git branch -d <NOMBREDELABRANCH>
+
+Borra una rama remota
+git push <NOMBREDELREMOTO> --delete <NOMBREDELABRANCH>
+
+Tira (pull) desde una rama remota
+git pull <NOMBREDELREMOTO> <NOMBREDELABRANCH>
